@@ -8,3 +8,5 @@ This script, given a url, will search throught the first 50 results on Google fo
 
 ex. for reddit.com: ./ScrapeGoogle.py reddit.com > redditscrape.txt
 
+## Limit
+Currently blocks scraping after 33 executions in short period of time. 
